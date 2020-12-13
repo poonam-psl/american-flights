@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<americanFlights>
+  <temp>
+    <americanFlight ID="1">
+      <ID>1</ID>
+      <code>rree0001</code>
+      <price>541</price>
+      <departureDate>2016-01-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>LAX</destination>
+      <emptySeats>0</emptySeats>
+      <plane>
+        <type>Boeing 787</type>
+        <totalSeats>200</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="2">
+      <ID>2</ID>
+      <code>eefd0123</code>
+      <price>300</price>
+      <departureDate>2016-01-25T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>CLE</destination>
+      <emptySeats>7</emptySeats>
+      <plane>
+        <type>Boeing 747</type>
+        <totalSeats>345</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="3">
+      <ID>3</ID>
+      <code>ffee0192</code>
+      <price>300</price>
+      <departureDate>2016-01-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>LAX</destination>
+      <emptySeats>0</emptySeats>
+      <plane>
+        <type>Boeing 777</type>
+        <totalSeats>300</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="4">
+      <ID>4</ID>
+      <code>rree1000</code>
+      <price>200</price>
+      <departureDate>2016-01-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>CLE</destination>
+      <emptySeats>5</emptySeats>
+      <plane>
+        <type>Boeing 737</type>
+        <totalSeats>150</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="5">
+      <ID>5</ID>
+      <code>rree1093</code>
+      <price>142</price>
+      <departureDate>2016-02-11T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>SFO</destination>
+      <emptySeats>1</emptySeats>
+      <plane>
+        <type>Boeing 737</type>
+        <totalSeats>150</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="6">
+      <ID>6</ID>
+      <code>ffee1112</code>
+      <price>954</price>
+      <departureDate>2016-01-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>CLE</destination>
+      <emptySeats>100</emptySeats>
+      <plane>
+        <type>Boeing 787</type>
+        <totalSeats>200</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="7">
+      <ID>7</ID>
+      <code>eefd1994</code>
+      <price>676</price>
+      <departureDate>2016-01-01T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>SFO</destination>
+      <emptySeats>0</emptySeats>
+      <plane>
+        <type>Boeing 777</type>
+        <totalSeats>300</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="8">
+      <ID>8</ID>
+      <code>ffee2000</code>
+      <price>300</price>
+      <departureDate>2016-02-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>SFO</destination>
+      <emptySeats>30</emptySeats>
+      <plane>
+        <type>Boeing 737</type>
+        <totalSeats>150</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="9">
+      <ID>9</ID>
+      <code>eefd3000</code>
+      <price>900</price>
+      <departureDate>2016-02-01T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>SFO</destination>
+      <emptySeats>0</emptySeats>
+      <plane>
+        <type>Boeing 737</type>
+        <totalSeats>150</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="10">
+      <ID>10</ID>
+      <code>eefd4511</code>
+      <price>900</price>
+      <departureDate>2016-01-15T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>LAX</destination>
+      <emptySeats>100</emptySeats>
+      <plane>
+        <type>Boeing 777</type>
+        <totalSeats>300</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+  <temp>
+    <americanFlight ID="11">
+      <ID>11</ID>
+      <code>rree4567</code>
+      <price>456</price>
+      <departureDate>2016-01-20T00:00:00</departureDate>
+      <origin>MUA</origin>
+      <destination>SFO</destination>
+      <emptySeats>100</emptySeats>
+      <plane>
+        <type>Boeing 737</type>
+        <totalSeats>150</totalSeats>
+      </plane>
+    </americanFlight>
+  </temp>
+</americanFlights>

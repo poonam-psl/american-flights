@@ -1,0 +1,13 @@
+{
+  "sampleData": {
+    "5eaa2240-5abf-445c-af70-68314b2deb75": {
+      "payload": "sample_data/list_json.json"
+    },
+    "4d3c0457-2f89-4420-9eb9-65add36f8d2f": {
+      "payload": "sample_data/list_java.dwl"
+    },
+    "1b866486-0a83-4598-936e-9f66af1c7202": {
+      "payload": "sample_data/americanflights.xml"
+    }
+  }
+}
