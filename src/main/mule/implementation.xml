@@ -42,6 +42,7 @@ payload map ( payload01 , indexOfPayload01 ) -> {
 				<ee:set-attributes resource="test.dwl" />
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="48c33941-fd2d-4698-b7dd-99c5b427e578" />
 	</flow>
 	<flow name="getFlightsByID" doc:id="cae79ff7-4a12-448d-8832-69539488c90d" >
 		<db:select doc:name="Select" doc:id="cd4ae24b-260b-4444-a90d-af62b704711d" config-ref="Database_Config" >
